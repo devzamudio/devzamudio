@@ -4,7 +4,7 @@
 <h2 align="center">Personal Information</h1>
 <table>
   <tr>
-    <td align="center" style="width: 50%;"><img src="./img/selfie.jpg" style="width: 100%;"></td>
+    <td align="center" style="width: 50%;"><img src="./img/selfie.jpg" style="width: 50%;"></td>
     <td>
       <ul>
         <li><b>Name:</b> Leonardo Zamudio López</li>
