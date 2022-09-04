@@ -1,10 +1,11 @@
 <img src="./img/banner.png">
 
 ---
+<div align="center">
 <h2 align="center">Personal Information</h1>
 <table>
   <tr>
-    <td><img src="./img/selfie.jpg"></td>
+    <td><img src="./img/selfie.jpg" width="500px"></td>
     <td>
       <ul>
         <li><b>Name:</b> Leonardo Zamudio López</li>
@@ -21,6 +22,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 <h2 align="center">Technologies I use</h2>
