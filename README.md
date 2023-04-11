@@ -11,8 +11,8 @@
         <li><b>Name:</b> Leonardo Zamudio López</li>
         <li><b>Pronouns:</b> He/Him/His</li>
         <li><b>Occupation:</b> Student</li>
-        <li><b>Branch:</b> Web Development (Junior)</li>
-        <li><b>Languages:</b> Spanish (Native), English (Fluent)</li>
+        <li><b>Branch:</b> Web Development (Junior), Business Management (Studying)</li>
+        <li><b>Languages:</b> Spanish (Native), English (Fluent), German (Studying)</li>
       </ul>
       <p align="center">
         <a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/">
